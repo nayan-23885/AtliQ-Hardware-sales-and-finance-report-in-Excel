@@ -1,7 +1,7 @@
 # AtliQ-Hardware-sales-and-finance-report-in-Excel
 This project involves analysing the sales and finance data of Atliq hardware using Microsoft Excel. While working on this project as a practice problem at the Codebasics Data Analysis course, I got to understand various key aspects of using Excel as a data analysis tool.
 
-###🚀 Key Learnings
+### 🚀 Key Learnings
 
 ✅ Advanced Formulas: Master lookup functions (XLOOKUP, INDEX & MATCH), conditional aggregation (SUMIFS, COUNTIFS), and dynamic arrays (FILTER, UNIQUE).
 
