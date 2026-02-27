@@ -1,5 +1,5 @@
 # AtliQ-Hardware-sales-and-finance-report-in-Excel
-This project involves analysing the sales and finance data of Atliq hardware using Microsoft Excel. While working on this project as a practice problem at the Codebasics Data Analysis course, I got to understand various key aspects of using Excel as a data analysis tool.
+This project involves analysing the sales and finance data of Atliq hardware using Microsoft Excel. While working on this project as a practice problem at the **Codebasics** Data Analysis course, I got to understand various key aspects of using Excel as a data analysis tool.
 
 ### 🚀 Key Learnings
 
@@ -30,31 +30,31 @@ This project involves analysing the sales and finance data of Atliq hardware usi
 ### Net Performance Sales
 
 ![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/5f4df8514958046d9f2df95a2a7298e8d74bb4a2/Sales%20report%20Atliq%20hardware%20Customer%20performance%201.png)
-
-### Market Performance Vs Target
-
 ![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/5f4df8514958046d9f2df95a2a7298e8d74bb4a2/Sales%20report%20Atliq%20hardware%20Customer%20performance%202.png)
 
-### Top 10 Products
+### Market Performance Vs Target
 
 ![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/4bf16269e2080756131dea5adbe0cc1410fb2b32/Sales%20report%20AtliQ%20Hardware%20market%20Vs%20Target.png)
 
-### Market Performance Vs Target
+### Top 10 Products
 
 ![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/4bf16269e2080756131dea5adbe0cc1410fb2b32/Sales%20report%20AtliQ%20Hardware%20Top%2010%20Products.png)
 
-### Top and Bottom 5 Products
+### Market Performance Vs Target
 
 ![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/4bf16269e2080756131dea5adbe0cc1410fb2b32/Sales%20report%20AtliQ%20Hardware%20Division%20growth.png)
 
-### New Product in 2021
+### Top and Bottom 5 Products
 
 ![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/4bf16269e2080756131dea5adbe0cc1410fb2b32/Sales%20report%20AtliQ%20Hardware%20top%20and%20bottom%205%20products.png)
 
-### Top 5 Countries
+### New Product in 2021
 
 ![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/4bf16269e2080756131dea5adbe0cc1410fb2b32/Sales%20report%20AtliQ%20Hardware%20new%20products.png)
 
-### Net Performance Sales
+### Top 5 Countries
 
 ![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/4bf16269e2080756131dea5adbe0cc1410fb2b32/Sales%20report%20AtliQ%20Hardware%20top%205%20countries.png)
+
+
+
