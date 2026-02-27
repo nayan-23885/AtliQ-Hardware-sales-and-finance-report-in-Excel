@@ -20,17 +20,17 @@ This project involves analysing the sales and finance data of Atliq hardware usi
 
 ### Profit and Loss by Fiscal Year
 
-![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/92e53e2397aed97166003cef4d23f5855c7c7ffa/AtiliQ%20Hardware%20P%20and%20L%20by%20Fiscal%20year.png)
+![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/fbb4f9af0814f677d766c787cfbd49056e0fb825/AtiliQ%20Hardware%20P%20and%20L%20by%20Fiscal%20year.png)
 
 ### Profit and Loss by Month and Quarter
 
-![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/5f4df8514958046d9f2df95a2a7298e8d74bb4a2/Atilq%20Hardware%20P%20and%20L%20by%20month%20and%20Quarter%201.png)
-![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/5f4df8514958046d9f2df95a2a7298e8d74bb4a2/Atilq%20Hardware%20P%20and%20L%20by%20month%20and%20Quarter%202.png)
+![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/fbb4f9af0814f677d766c787cfbd49056e0fb825/Atilq%20Hardware%20P%20and%20L%20by%20month%20and%20Quarter%201.png)
+![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/fbb4f9af0814f677d766c787cfbd49056e0fb825/Atilq%20Hardware%20P%20and%20L%20by%20month%20and%20Quarter%202.png)
 
 ### Net Performance Sales
 
-![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/5f4df8514958046d9f2df95a2a7298e8d74bb4a2/Sales%20report%20Atliq%20hardware%20Customer%20performance%201.png)
-![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/5f4df8514958046d9f2df95a2a7298e8d74bb4a2/Sales%20report%20Atliq%20hardware%20Customer%20performance%202.png)
+![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/fbb4f9af0814f677d766c787cfbd49056e0fb825/Sales%20report%20Atliq%20hardware%20Customer%20performance%201.png)
+![image alt](https://github.com/nayan-23885/AtliQ-Hardware-sales-and-finance-report-in-Excel/blob/fbb4f9af0814f677d766c787cfbd49056e0fb825/Sales%20report%20Atliq%20hardware%20Customer%20performance%202.png)
 
 ### Market Performance Vs Target
 
